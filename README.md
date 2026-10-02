@@ -8,7 +8,7 @@ The project isn't just a single model — it runs multiple regression algorithms
 
 ## 🔗 Live Project
 
-- **GitHub Repo:** [Math-score-predictor-v1](https://github.com/keshav-018/Math-score-predictor-v1)
+- **GitHub Repo:** [Math-score-predictor-v1](https://github.com/hwtvj8hfgd-droid/Math-score-predictor-v1)
 - **Docker Image:** *(coming soon)*
 
 ---
@@ -48,7 +48,7 @@ Math-score-predictor-v1/
 ├── notebook/
 │   └── data/                 # Raw dataset & EDA / model-experimentation notebooks
 ├── src/
-│   ├── components/           # Data ingestion, transformation & model trainer
+│   ├── components/           # Data ingestion.py, transformation.py & model_trainer.py
 │   ├── pipeline/              # train_pipeline.py & predict_pipeline.py
 │   ├── exception.py           # Custom exception handling
 │   ├── logger.py              # Logging configuration
@@ -97,7 +97,7 @@ Math-score-predictor-v1/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/keshav-018/Math-score-predictor-v1.git
+git clone https://github.com/hwtvj8hfgd-droid/Math-score-predictor-v1.git
 cd Math-score-predictor-v1
 ```
 
@@ -170,6 +170,6 @@ This was built as a learning project to strengthen end-to-end ML engineering ski
 
 ## 📬 Contact
 
-**Keshav** — [GitHub: keshav-018](https://github.com/keshav-018)
+**Samyak** — [GitHub: hwtvj8hfgd-droid](https://github.com/hwtvj8hfgd-droid)
 
 If you find this project useful, consider giving it a ⭐ on GitHub!
